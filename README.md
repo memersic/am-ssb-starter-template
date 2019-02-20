@@ -1,2 +1,2 @@
-# am-ssb-starter-template
-AIR MILES Static Site Builder - Starter template package.
+# AIR MILES Static Site Builder
+## Starter Template Package
